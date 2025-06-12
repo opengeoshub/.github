@@ -1,5 +1,5 @@
 <p align="center">
-  <strong >Open Geospatial Hub <a href="https://github.com/opengeoshub">opengeoshub</a></strong> <br>
+ <strong >Open Geospatial Hub </strong> <br>
   <i>Open source geospatial tools and open data</i>
 </p>
 <p align="center">
