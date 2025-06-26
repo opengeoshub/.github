@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/thangqd/vgridtools/main/images/readme/dggs.png">
 </p>
 
-[Open Geospatial Hub](https://gishub.vn) is an initiative dedicated to the development and dissemination of geospatial open-source projects and open data. 
+[Open Geospatial Hub](https://gishub.vn) is an initiative dedicated to the development and dissemination of geospatial open-source projects, open data, open science and reproducible research. 
   
 [Open Geospatial Hub](https://gishub.vn) emphasizes the promotion and implementation of the [FAIR](https://www.go-fair.org/fair-principles/) and [CARE](https://www.gida-global.org/care) principles.
 
