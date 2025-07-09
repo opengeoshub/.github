@@ -27,6 +27,7 @@
 
 ## Vgrid DGGS
 - [vgrid](https://github.com/opengeoshub/vgrid)
+- [vgridpandas](https://github.com/opengeoshub/vgridpandas)
 - [vgridjs](https://github.com/opengeoshub/vgridjs)
 - [vgrid-maplibre](https://github.com/opengeoshub/vgrid-maplibre)
 - [vgrid plugin for QGIS](https://github.com/opengeoshub/vgridtools)
