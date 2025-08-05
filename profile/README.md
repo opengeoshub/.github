@@ -56,3 +56,6 @@
 - [GIS curriculum](https://github.com/opengeoshub/GIS-curriculum)
 - [BecaGIS Resources for QGIS](https://github.com/opengeoshub/BecaGIS-Resources)
 
+## Contributions
+- [A5 DGGS JS](https://github.com/felixpalmer/a5)
+- [A5 DGGS Python](https://github.com/felixpalmer/a5-py)
