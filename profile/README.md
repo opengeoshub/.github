@@ -1,10 +1,13 @@
 <p align="center">
- <strong >Open Geospatial Hub </strong> <br>
-  <i>Open source geospatial tools and open data</i>
-</p>
-<p align="center">
   <img src="https://raw.githubusercontent.com/thangqd/vgridtools/main/images/readme/dggs.png">
 </p>
+<p align="center">
+  <strong ><a href="https://github.com/opengeoshub">Open Geospatial Hub</a></strong> <br>
+  <i>Open source geospatial software and open data</i>
+</p>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=opengeoshub.opengeoshub)
+[![image](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 [Open Geospatial Hub](https://gishub.vn) is an initiative dedicated to the development and dissemination of geospatial open-source projects, open data, open science and reproducible research. 
   
@@ -25,15 +28,26 @@
 [Open Geospatial Hub](https://gishub.vn) projects: 
 
 ## Vgrid DGGS
-- [vgrid](https://github.com/opengeoshub/vgrid)
-- [vgridpandas](https://github.com/opengeoshub/vgridpandas)
-- [vgrid-maplibre](https://github.com/opengeoshub/vgrid-maplibre)
-- [vgrid plugin for QGIS](https://github.com/opengeoshub/vgridtools)
-- [vgrid home](https://vgridhome.gishub.vn)
+- [vgrid](https://github.com/opengeoshub/vgrid), [vgrid on PyPI](https://pypi.org/project/vgrid/), [vgrid docs](https://vgrid.gishub.vn)
+
+- [vgrid plugin for QGIS](https://github.com/opengeoshub/vgridtools), [vgrid plugin on QGIS Plugin repo](https://plugins.qgis.org/plugins/vgridtools/), [vgrid plugin docs](https://vgridtools.gishub.vn)
+
+- [vgridpandas](https://github.com/opengeoshub/vgridpandas), [vgridpandas on PyPI](https://pypi.org/project/vgridpandas/), [vgridpandas docs](https://vgridpandas.gishub.vn)
+
+- [vgrid-maplibre](https://github.com/opengeoshub/vgrid-maplibre), [vgrid-maplibre on NPM](https://www.npmjs.com/package/vgrid-maplibre), [vgrid-mapLire demo](https://opengeoshub.github.io/pages/vgridmaplibre)
+
+- [Vgrid Homepage](https://vgridhome.gishub.vn)
+
+- [DGGS Plugin](https://github.com/opengeos/GeoLibre/pull/1650) for [GeoLibre](https://github.com/opengeos/GeoLibre)
+
+- [DGGS Processing](https://github.com/opengeos/GeoLibre/pull/1710) for [GeoLibre](https://github.com/opengeos/GeoLibre)
+
+- [Atimeridian demo](https://opengeoshub.github.io/pages/antimeridian)
 
 ## Vector Tiles
 - [vtiles](https://github.com/opengeoshub/vtiles)
 - [vstyles](https://github.com/opengeoshub/vstyles)
+- [Vietnam Basemaps](https://basemap.gishub.vn)
 
 
 ## QGIS Plugins
@@ -58,7 +72,4 @@
 ## Contributions
 - [A5 DGGS JS](https://github.com/felixpalmer/a5)
 - [A5 DGGS Python](https://github.com/felixpalmer/a5-py)
-- [DGGG Plugin](https://github.com/opengeos/GeoLibre/pull/1650) for [GeoLibre](https://github.com/opengeos/GeoLibre)
-- [DGGG Processing](https://github.com/opengeos/GeoLibre/pull/1710) for [GeoLibre](https://github.com/opengeos/GeoLibre)
 - [Open Geospatial Hub on OSM](https://wiki.openstreetmap.org/wiki/Organised_Editing/Activities/Open_Geospatial_Hub)
-
