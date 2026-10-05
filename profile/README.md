@@ -63,6 +63,9 @@
 - [vdownload](https://github.com/opengeoshub/vdownload)
 - [vopendata](https://github.com/opengeoshub/vopendata)
 
+![github stats]( https://github-stats-extended.vercel.app/api?username=opengeoshub&theme=calm)
+
+
 
 ## Resources
 - [QGIS Training](https://github.com/opengeoshub/QGIS-Training)
