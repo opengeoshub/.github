@@ -73,4 +73,4 @@
 - [A5 DGGS Python](https://github.com/felixpalmer/a5-py)
 - [Open Geospatial Hub on OSM](https://wiki.openstreetmap.org/wiki/Organised_Editing/Activities/Open_Geospatial_Hub)
 
-![github stats]( https://github-stats-extended.vercel.app/api?username=opengeoshub&theme=calm)
+![github stats](https://github-stats-extended.vercel.app/api?username=opengeoshub&theme=calm)
